@@ -1,0 +1,51 @@
+{
+  "version": "2026-11",
+  "note": "Pesos por seção somam 100. Baseados em references/market-2026.md (pesquisa de 2026-11-06).",
+  "sections": {
+    "visibilidade_busca": {
+      "weight": 25,
+      "label": "Visibilidade na busca"
+    },
+    "sobre": {
+      "weight": 10,
+      "label": "Sobre"
+    },
+    "experiencia": {
+      "weight": 20,
+      "label": "Experiência"
+    },
+    "competencias": {
+      "weight": 15,
+      "label": "Competências"
+    },
+    "prova_social": {
+      "weight": 10,
+      "label": "Prova social"
+    },
+    "atividade": {
+      "weight": 5,
+      "label": "Atividade e rede"
+    },
+    "busca_ia": {
+      "weight": 15,
+      "label": "Busca por IA (palavras-chave e semântica)"
+    }
+  },
+  "thresholds": {
+    "headline_max_chars": 220,
+    "headline_min_keywords": 3,
+    "about_min_chars": 1000,
+    "about_max_chars": 2600,
+    "skills_target": 50,
+    "skills_max": 100,
+    "top_skills": 5,
+    "recommendations_target": 5,
+    "recommendation_recent_months": 36,
+    "posts_90d_target": 6,
+    "comments_90d_target": 20,
+    "connections_target": 500,
+    "ssi_target": 70,
+    "bullet_metric_ratio_target": 0.5,
+    "experience_min_desc_chars": 300
+  }
+}

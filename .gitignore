@@ -1,0 +1,5 @@
+# Rodadas reais têm dados pessoais: nunca versionar
+runs/
+__pycache__/
+*.pyc
+.DS_Store

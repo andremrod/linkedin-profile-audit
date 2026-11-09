@@ -1,0 +1,9 @@
+{
+  "id": "fullstack",
+  "title_pt": "Desenvolvedor Fullstack Sênior",
+  "title_en": "Senior Full Stack Engineer",
+  "title_aliases": ["fullstack", "full stack", "full-stack", "software engineer", "engenheiro de software", "desenvolvedor de software"],
+  "seniority_terms": ["senior", "sênior", "sr", "lead", "staff", "especialista"],
+  "must": ["javascript", "typescript", "react", "node.js", "rest api", "sql", "postgresql", "git", "testes automatizados", "docker", "aws", "ci/cd"],
+  "nice": ["next.js", "nestjs", "express", "graphql", "mongodb", "redis", "kubernetes", "microsserviços", "mensageria", "python", "java", "go", "terraform", "observabilidade", "arquitetura de software", "system design", "clean code", "tdd", "agile", "mentoria", "code review", "inglês", "gcp", "azure", "ia generativa", "llm"]
+}

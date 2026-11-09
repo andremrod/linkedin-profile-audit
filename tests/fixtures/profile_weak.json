@@ -1,0 +1,22 @@
+{
+  "captured_at": "2026-11-01",
+  "name": "Pessoa Exemplo",
+  "headline": "Desenvolvedor na Empresa X",
+  "location": "São Paulo, Brasil",
+  "custom_url": false, "photo": true, "banner": false, "verified": false,
+  "open_to_work": {"enabled": false},
+  "secondary_language_profile": false,
+  "about": "Gosto de programar e aprender coisas novas.",
+  "experience": [
+    {"title": "Desenvolvedor", "company": "Empresa X", "start": "2022-03", "end": null,
+     "description": "Desenvolvimento de telas.", "skills": []},
+    {"title": "Estagiário", "company": "Empresa Y", "start": "2020-01", "end": "2021-06", "description": "", "skills": []}
+  ],
+  "education": [{"school": "Universidade", "degree": "Bacharelado", "field": "Computação"}],
+  "skills": [{"name": "JavaScript", "endorsements": 2}, {"name": "HTML", "endorsements": 1}],
+  "recommendations_received": [],
+  "certifications": [], "projects": [], "featured": [], "languages": [],
+  "contact": {},
+  "activity": {"posts_90d": 0, "comments_90d": 1},
+  "metrics": {"connections": 180, "ssi": {"total": 22}}
+}

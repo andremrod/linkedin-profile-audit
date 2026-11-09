@@ -1,0 +1,12 @@
+{
+  "profile_name": "Pessoa Exemplo",
+  "summary": "Perfil fictício usado para demonstrar o relatório. Título genérico, Sobre curto e experiências sem resultados medidos.",
+  "headline_current": "Desenvolvedor na Empresa X",
+  "headline_options": [
+    {"pt": "Desenvolvedor Frontend | React, TypeScript, Next.js | Interfaces rápidas e acessíveis",
+     "en": "Frontend Engineer | React, TypeScript, Next.js | Fast, accessible web apps",
+     "why": "Cargo com o nome que recrutadores buscam + 3 palavras-chave das vagas + proposta de valor."}
+  ],
+  "skills_add": ["React", "TypeScript", "Next.js", "Testes automatizados"],
+  "content_plan": [{"when": "Semana 1", "idea": "Post curto sobre um problema de performance que você resolveu, com o número antes e depois."}]
+}

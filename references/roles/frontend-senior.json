@@ -1,0 +1,9 @@
+{
+  "id": "frontend-senior",
+  "title_pt": "Desenvolvedor Frontend Sênior",
+  "title_en": "Senior Frontend Engineer",
+  "title_aliases": ["frontend", "front-end", "front end", "ui engineer", "web developer", "desenvolvedor web", "react developer", "engenheiro de software"],
+  "seniority_terms": ["senior", "sênior", "sr", "lead", "staff", "especialista"],
+  "must": ["react", "typescript", "javascript", "html", "css", "next.js", "testes automatizados", "git", "rest api", "performance web", "acessibilidade", "design system"],
+  "nice": ["graphql", "node.js", "redux", "tailwind", "jest", "testing library", "cypress", "playwright", "storybook", "vite", "webpack", "micro frontends", "ci/cd", "aws", "docker", "core web vitals", "seo", "ssr", "react native", "vue", "angular", "figma", "agile", "mentoria", "code review", "inglês", "zustand", "react query", "web components", "observabilidade", "ia generativa"]
+}
